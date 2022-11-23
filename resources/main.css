@@ -40,11 +40,7 @@ ul {
 #topo ul {
     background: #b10333;
     margin-top: 30px;
-    float: left;
-}
-
-#topo ul li {
-    float: left;
+    display: inline-flex;
 }
 
 #topo ul a {
@@ -83,11 +79,7 @@ body.fotos #navegacao a#fotos {
     margin-top: 60px;
     display: flex;
     background: cadetblue;
-}
-
-#primario,
-#secundario,
-#lateral {
+    margin-bottom: 20px;
 }
 
 #primario,
@@ -96,6 +88,19 @@ body.fotos #navegacao a#fotos {
 }
 
 #primario {
+    background-color: yellow;
+    margin-right: 15px;
+}
+
+#duas-colunas #primario {
+    width: 555px;
+    margin-right: 0px;
+    background-color: yellow;
+}
+
+#uma-coluna #primario {
+    width: 750px;
+    margin: 0 auto;
     background-color: yellow;
 }
 
@@ -106,7 +111,7 @@ body.fotos #navegacao a#fotos {
 #lateral {
     width: 180px;
     order: -1;
-    margin-right: 30px;
+    margin-right: 15px;
     background-color: violet;
 }
 
