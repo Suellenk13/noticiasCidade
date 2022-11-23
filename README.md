@@ -7,6 +7,8 @@ A estrutura do site se divide em:
 
 Prévia do site - HOME:
 
+foto foto foto
+
 ##
 
 Criado em: 11/2021
