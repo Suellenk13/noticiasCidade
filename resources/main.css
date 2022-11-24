@@ -146,6 +146,46 @@ h2 {
     padding: 5px;
 }
 
+h4 {
+    padding: 5px;
+    font-size: 14px;
+}
+
+h4.entrevista {
+    background: #b10333;
+    color: #000;
+}
+
+h4.destaque {
+    background: #69001d;
+    color: #fff;
+}
+
+label,
+input,
+button {
+    font-size: 14px;
+}
+
+button {
+    margin: 5px auto;
+    margin: 6px 0;
+    padding: 1px;
+    background: #b10333;
+    color: #fff;
+    border: 1px solid #b10333;
+}
+
+button:hover {
+    background: #a1a1a1;
+    color: #000;
+    border: 1px solid #a1a1a1;
+}
+
+input[type="email"] {
+    width: 156px;
+}
+
 .caixa-conteudo {
     background: #fff;
     padding: 5px;
@@ -154,13 +194,17 @@ h2 {
 
 /*** Outras configs ***/
 
+a {
+    text-decoration: none;
+    color: #294c71;
+}
+
 #lateral ul a {
     font-size: 0.9em;
     padding: 3px;
     display: block;
     line-height: 30px;
     color: #000;
-    text-decoration: none;
     border-bottom: 1px solid #f3f3f3;
 }
 
