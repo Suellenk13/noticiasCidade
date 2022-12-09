@@ -9,6 +9,7 @@ A estrutura do site se divide em:
 
 Prévia do site - HOME:
 
-##
+![home-cidade](https://user-images.githubusercontent.com/117856411/206749692-f45a5972-df43-442c-b203-6e755a5151c0.png)
+
 
 Criado em: 11/2021
