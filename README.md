@@ -1,6 +1,9 @@
 # noticiasCidade
 Quarto projeto do curso Desenvolvimento Web Completo 2022 de Jorge Sant Ana e Jamilton Damasceno. <br>
-Obs: visando a acessibilidade do site, foi utilizado o display-flex com order -1 na coluna "Lateral" da Home, de forma que no HTML, ele foi criado como sendo a terceira coluna, e na leitura do site, ele tem menor relevância em consideração as matérias do jornal.
+Obs: <br>
+- Visando a acessibilidade do site, foi utilizado o display-flex com order -1 na coluna "Lateral" da Home, de forma que no HTML, ele foi criado como sendo a terceira coluna, e na leitura do site, ele tem menor relevância em consideração as matérias do jornal.
+- O link "Leia mais" nas matérias de entrevista e destaque da Home, leva diretamente para a página Fotos, utilizando a tag #bookmark para guiá-lo a foto da matéria clicada, juntamente com seu conteúdo completo.
+
 
 A estrutura do site se divide em:
 
